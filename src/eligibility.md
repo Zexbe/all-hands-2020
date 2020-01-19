@@ -1,14 +1,14 @@
-# Elibility
+# Eligibility
 
-In general, we intend to the event to be open to people who are
+In general, we intend the event to be open to people who are
 actively participating in the Rust organization. In some cases, that's
 a bit hard to define precisely.
 
 ## Inclusiveness
 
-It is our intention for the All Hands to be an inclusive event.  We
-would like in particular that every contriutor should be able to
-attend independent of their financial and social status. For this
+It is our intention for the All Hands to be an inclusive event. We
+would like in particular that every contributor should be able to
+attend, independent of their financial and social status. For this
 reason, we will provide sponsorship as well as supporting remote
 participation.
 
@@ -27,8 +27,8 @@ Leads can contact <rust-all-hands@rust-lang.org> with
 questions about how to do so.
 
 Anyone actively involved in the Rust organization is eligible for
-sponsorship of both travel and the ticket price. See the [ticket
-page](./tickets.html) for more detail.
+sponsorship to cover the travel and ticket prices. See the [ticket
+page](./tickets.html) for more details.
 
 ## Other folks
 
