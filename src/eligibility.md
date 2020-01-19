@@ -9,7 +9,7 @@ a bit hard to define precisely.
 It is our intention for the All Hands to be an inclusive event. We
 would like in particular that every contributor should be able to
 attend, independent of their financial and social status. For this
-reason, we will provide sponsorship as well as supporting remote
+reason, we will provide sponsorship as well as support remote
 participation.
 
 ## Team members and working group participants
@@ -33,7 +33,7 @@ page](./tickets.html) for more details.
 ## Other folks
 
 In addition, we sometimes extend invitations to additional folks who
-have specific things to discuss with team members. This might include
+have specific things to discuss with team members. We may include
 people who live in the area where the All Hands is taking place,
 researchers working on an interesting proposal, or production users
 looking to build involvement with the Rust organization.

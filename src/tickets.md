@@ -9,7 +9,7 @@ ticket. Therefore, we’ve opted for the following setup.
 When registering, you will be asked to answer the following two
 questions. Note that you are welcome to respond "yes" to both.
 
-- **Do you need your flights + hotel to be sponsored?**
+- **Do you need your flights + hotel sponsored?**
 - **Do you need your event ticket sponsored?**
 
 Please feel free to request sponsorship as necessary. However, if your
