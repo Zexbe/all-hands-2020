@@ -7,7 +7,7 @@ See the [Eligibility](./eligibility.html) page for all the details.
 ## I am eligible to attend the event. What should I be doing?
 
 Presuming you are eligible to attend the event, you should be
-following the steps listed in the [Registration] page.
+following the steps listed in the [Registration](./registration.html) page.
 
 ## Can any company purchase a sponsorship ticket?
 
